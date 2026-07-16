@@ -6,14 +6,10 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/LIVE-DEMO-808080?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-
-<a href="https://blue-truth-8418.shreyashmandal404.workers.dev/" target="_blank">
-<img src="https://img.shields.io/badge/Responsive-Website-00C853?style=for-the-badge">
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-View_Website-brightgreen?style=for-the-badge)](https://blue-truth-8418.shreyashmandal404.workers.dev/)
+[![Made with HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
+[![Made with CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
+[![Deployed on Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://blue-truth-8418.shreyashmandal404.workers.dev/)
 </a>
 
 </p>
