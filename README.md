@@ -1,12 +1,21 @@
 # 📚 Shreyash Book-Store
 
 <p align="center">
-  <h3>A clean and responsive online book store for discovering amazing books.</h3>
+  <h3>A clean, modern and responsive online book store.</h3>
+</p>
 
-  <img src="https://img.shields.io/badge/LIVE-DEMO-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Responsive-Website-success?style=for-the-badge">
+<p align="center">
+
+<img src="https://img.shields.io/badge/LIVE-DEMO-808080?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
+<a href="https://YOUR-NETLIFY-LINK.netlify.app" target="_blank">
+<img src="https://img.shields.io/badge/Responsive-Website-00C853?style=for-the-badge">
+</a>
+
 </p>
 
 ## 🔗 Live Website
@@ -17,33 +26,31 @@
 
 # ✨ About the Project
 
-**Shreyash Book-Store** is a modern online bookstore landing page built using **HTML5** and **CSS3**. The website provides a simple, clean, and attractive interface for readers to explore different types of books.
+**Shreyash Book-Store** is a modern and responsive online bookstore built using **HTML5** and **CSS3**. The website offers a clean design and simple navigation for exploring books.
 
-The project focuses on responsive design, easy navigation, and an enjoyable browsing experience.
-
-> *"A good book can inspire, educate, and entertain people of every age."*
+> 📖 *"Reading is a journey that never ends."*
 
 ---
 
 # 🚀 Features
 
-- 🏠 Beautiful Home Section
+- 🏠 Home Section
 - 📖 About Section
 - 📚 Book Categories
-- 🖼️ Book Gallery
+- 🖼️ Gallery
 - 📞 Contact Section
-- 📱 Fully Responsive Design
-- ⚡ Clean & Simple UI
+- 📱 Responsive Design
+- ⚡ Clean User Interface
 
 ---
 
 # 📚 Book Categories
 
-| 📖 Category | Description |
+| 📚 Category | Description |
 |-------------|-------------|
 | 😂 Funny | Fun and entertaining books |
 | 👻 Horror | Horror and thriller stories |
-| 📚 Fiction | Creative and imaginary stories |
+| 📖 Fiction | Creative and imaginary stories |
 
 ---
 
@@ -62,9 +69,22 @@ Book-Store/
 │
 ├── index.html
 ├── style.css
-├── images/
-├── assets/
-└── README.md
+├── README.md
+│
+├── Auth/
+│   ├── Login.html
+│   ├── SignUp.html
+│   └── style.css
+│
+├── Pages/
+│   ├── funny/
+│   │   └── Funny.html
+│   ├── horror/
+│   │   └── Horror.html
+│   └── fictional/
+│       └── Fictional.html
+│
+└── Payment/
 ```
 
 ---
@@ -77,25 +97,13 @@ git clone https://github.com/CodeWithShreyash96/Book-Store.git
 cd Book-Store
 ```
 
-Now open **index.html** in your browser.
+Open **index.html** in your browser.
 
 ---
 
 # 🌍 Live Preview
 
-🔗 https://blue-truth-8418.shreyashmandal404.workers.dev/
-
----
-
-# 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the repository
-2. Create a new feature branch
-3. Commit your changes
-4. Push your branch
-5. Open a Pull Request
+👉 https://blue-truth-8418.shreyashmandal404.workers.dev/
 
 ---
 
@@ -110,10 +118,10 @@ https://github.com/CodeWithShreyash96
 
 # ⭐ Support
 
-If you like this project, don't forget to give it a **⭐ Star** on GitHub.
+If you like this project, give it a ⭐ Star on GitHub.
 
 ---
 
 # 📄 License
 
-This project is licensed under the **MIT License**.
+This project is licensed under the MIT License.
