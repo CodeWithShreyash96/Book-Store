@@ -12,7 +12,7 @@
 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
-<a href="https://YOUR-NETLIFY-LINK.netlify.app" target="_blank">
+<a href="https://blue-truth-8418.shreyashmandal404.workers.dev/" target="_blank">
 <img src="https://img.shields.io/badge/Responsive-Website-00C853?style=for-the-badge">
 </a>
 
