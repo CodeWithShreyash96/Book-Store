@@ -54,7 +54,7 @@
 
 - 🌐 HTML5 — Website Structure
 - 🎨 CSS3 — Styling & Responsive Design
-- ☁️ Netlify — Website Hosting
+- ☁️ cloudflare — Website Hosting
 
 ---
 
